@@ -1,9 +1,9 @@
-# 考拉 js 标准
+# 考拉 typescript 编码 标准
 
-编辑 .eslintrc 加入即可
+编辑 tslint.json 加入以下内容即可
 
-```.eslintrc
+```tslint.json
 {
-  "extends": "eslint-config-klg"
+  "extends": "tslint-config-klg"
 }
 ```
