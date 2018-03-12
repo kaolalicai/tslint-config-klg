@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-klg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tslint standard for klg",
   "main": "tslint.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kaolalicai/eslint-config-klg.git"
+    "url": "https://github.com/kaolalicai/tslint-config-klg.git"
   },
   "dependencies": {
     "tslint-config-standard": "^7.0.0"
