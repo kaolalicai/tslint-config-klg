@@ -7,7 +7,7 @@ module.exports = {
   },
   extends: ['tslint-config-standard'],
   rules: {
-    "no-console": [true, "log", "error"],
+    "no-duplicate-imports": false,
     "no-unused-variable": true,
     "no-return-await": false,
     "object-curly-spacing": [true, "never"],
