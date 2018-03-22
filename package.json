@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-klg",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "tslint standard for klg",
   "main": "tslint.js",
   "scripts": {
