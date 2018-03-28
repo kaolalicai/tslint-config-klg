@@ -10,7 +10,7 @@ module.exports = {
     "no-duplicate-imports": false,
     "no-unused-variable": true,
     "no-return-await": false,
-    "object-curly-spacing": [true, "never"],
+    "object-curly-spacing": false,
     "await-promise": true,
     "radix": false
   }
